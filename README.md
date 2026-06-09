@@ -55,26 +55,26 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Eventticketclass | GET Walletobjects Eventticketclass List, POST Walletobjects Eventticketclass Insert, GET Walletobjects Eventticketclass Get, PATCH Walletobjects Eventticketclass Patch, PUT Walletobjects Eventticketclass Update, POST Walletobjects Eventticketclass Addmessage |
-| Eventticketobject | GET Walletobjects Eventticketobject List, POST Walletobjects Eventticketobject Insert, GET Walletobjects Eventticketobject Get, PATCH Walletobjects Eventticketobject Patch, PUT Walletobjects Eventticketobject Update, POST Walletobjects Eventticketobject Addmessage, POST Walletobjects Eventticketobject Modifylinkedofferobjects |
-| Flightclass | GET Walletobjects Flightclass List, POST Walletobjects Flightclass Insert, GET Walletobjects Flightclass Get, PATCH Walletobjects Flightclass Patch, PUT Walletobjects Flightclass Update, POST Walletobjects Flightclass Addmessage |
-| Flightobject | GET Walletobjects Flightobject List, POST Walletobjects Flightobject Insert, GET Walletobjects Flightobject Get, PATCH Walletobjects Flightobject Patch, PUT Walletobjects Flightobject Update, POST Walletobjects Flightobject Addmessage |
-| Genericclass | GET Walletobjects Genericclass List, POST Walletobjects Genericclass Insert, GET Walletobjects Genericclass Get, PATCH Walletobjects Genericclass Patch, PUT Walletobjects Genericclass Update |
-| Genericobject | GET Walletobjects Genericobject List, POST Walletobjects Genericobject Insert, GET Walletobjects Genericobject Get, PATCH Walletobjects Genericobject Patch, PUT Walletobjects Genericobject Update |
-| Giftcardclass | GET Walletobjects Giftcardclass List, POST Walletobjects Giftcardclass Insert, GET Walletobjects Giftcardclass Get, PATCH Walletobjects Giftcardclass Patch, PUT Walletobjects Giftcardclass Update, POST Walletobjects Giftcardclass Addmessage |
-| Giftcardobject | GET Walletobjects Giftcardobject List, POST Walletobjects Giftcardobject Insert, GET Walletobjects Giftcardobject Get, PATCH Walletobjects Giftcardobject Patch, PUT Walletobjects Giftcardobject Update, POST Walletobjects Giftcardobject Addmessage |
-| Issuer | GET Walletobjects Issuer List, POST Walletobjects Issuer Insert, GET Walletobjects Issuer Get, PATCH Walletobjects Issuer Patch, PUT Walletobjects Issuer Update |
-| Jwt | POST Walletobjects Jwt Insert |
-| Loyaltyclass | GET Walletobjects Loyaltyclass List, POST Walletobjects Loyaltyclass Insert, GET Walletobjects Loyaltyclass Get, PATCH Walletobjects Loyaltyclass Patch, PUT Walletobjects Loyaltyclass Update, POST Walletobjects Loyaltyclass Addmessage |
-| Loyaltyobject | GET Walletobjects Loyaltyobject List, POST Walletobjects Loyaltyobject Insert, GET Walletobjects Loyaltyobject Get, PATCH Walletobjects Loyaltyobject Patch, PUT Walletobjects Loyaltyobject Update, POST Walletobjects Loyaltyobject Addmessage, POST Walletobjects Loyaltyobject Modifylinkedofferobjects |
-| Media | POST Walletobjects Media Upload |
-| Offerclass | GET Walletobjects Offerclass List, POST Walletobjects Offerclass Insert, GET Walletobjects Offerclass Get, PATCH Walletobjects Offerclass Patch, PUT Walletobjects Offerclass Update, POST Walletobjects Offerclass Addmessage |
-| Offerobject | GET Walletobjects Offerobject List, POST Walletobjects Offerobject Insert, GET Walletobjects Offerobject Get, PATCH Walletobjects Offerobject Patch, PUT Walletobjects Offerobject Update, POST Walletobjects Offerobject Addmessage |
-| Permissions | GET Walletobjects Permissions Get, PUT Walletobjects Permissions Update |
-| Smarttap | POST Walletobjects Smarttap Insert |
-| Transitclass | GET Walletobjects Transitclass List, POST Walletobjects Transitclass Insert, GET Walletobjects Transitclass Get, PATCH Walletobjects Transitclass Patch, PUT Walletobjects Transitclass Update, POST Walletobjects Transitclass Addmessage |
-| Transitobject | GET Walletobjects Transitobject List, POST Walletobjects Transitobject Insert, GET Walletobjects Transitobject Get, PATCH Walletobjects Transitobject Patch, PUT Walletobjects Transitobject Update, POST Walletobjects Transitobject Addmessage |
-| Walletobjects | POST Walletobjects Walletobjects V 1 Private Content Upload Private Data |
+| Eventticketclass | Get walletobjects eventticketclass list, Post walletobjects eventticketclass insert, Get walletobjects eventticketclass get, Patch walletobjects eventticketclass patch, Put walletobjects eventticketclass update, Post walletobjects eventticketclass addmessage |
+| Eventticketobject | Get walletobjects eventticketobject list, Post walletobjects eventticketobject insert, Get walletobjects eventticketobject get, Patch walletobjects eventticketobject patch, Put walletobjects eventticketobject update, Post walletobjects eventticketobject addmessage, Post walletobjects eventticketobject modifylinkedofferobjects |
+| Flightclass | Get walletobjects flightclass list, Post walletobjects flightclass insert, Get walletobjects flightclass get, Patch walletobjects flightclass patch, Put walletobjects flightclass update, Post walletobjects flightclass addmessage |
+| Flightobject | Get walletobjects flightobject list, Post walletobjects flightobject insert, Get walletobjects flightobject get, Patch walletobjects flightobject patch, Put walletobjects flightobject update, Post walletobjects flightobject addmessage |
+| Genericclass | Get walletobjects genericclass list, Post walletobjects genericclass insert, Get walletobjects genericclass get, Patch walletobjects genericclass patch, Put walletobjects genericclass update |
+| Genericobject | Get walletobjects genericobject list, Post walletobjects genericobject insert, Get walletobjects genericobject get, Patch walletobjects genericobject patch, Put walletobjects genericobject update |
+| Giftcardclass | Get walletobjects giftcardclass list, Post walletobjects giftcardclass insert, Get walletobjects giftcardclass get, Patch walletobjects giftcardclass patch, Put walletobjects giftcardclass update, Post walletobjects giftcardclass addmessage |
+| Giftcardobject | Get walletobjects giftcardobject list, Post walletobjects giftcardobject insert, Get walletobjects giftcardobject get, Patch walletobjects giftcardobject patch, Put walletobjects giftcardobject update, Post walletobjects giftcardobject addmessage |
+| Issuer | Get walletobjects issuer list, Post walletobjects issuer insert, Get walletobjects issuer get, Patch walletobjects issuer patch, Put walletobjects issuer update |
+| Jwt | Post walletobjects jwt insert |
+| Loyaltyclass | Get walletobjects loyaltyclass list, Post walletobjects loyaltyclass insert, Get walletobjects loyaltyclass get, Patch walletobjects loyaltyclass patch, Put walletobjects loyaltyclass update, Post walletobjects loyaltyclass addmessage |
+| Loyaltyobject | Get walletobjects loyaltyobject list, Post walletobjects loyaltyobject insert, Get walletobjects loyaltyobject get, Patch walletobjects loyaltyobject patch, Put walletobjects loyaltyobject update, Post walletobjects loyaltyobject addmessage, Post walletobjects loyaltyobject modifylinkedofferobjects |
+| Media | Post walletobjects media upload |
+| Offerclass | Get walletobjects offerclass list, Post walletobjects offerclass insert, Get walletobjects offerclass get, Patch walletobjects offerclass patch, Put walletobjects offerclass update, Post walletobjects offerclass addmessage |
+| Offerobject | Get walletobjects offerobject list, Post walletobjects offerobject insert, Get walletobjects offerobject get, Patch walletobjects offerobject patch, Put walletobjects offerobject update, Post walletobjects offerobject addmessage |
+| Permissions | Get walletobjects permissions get, Put walletobjects permissions update |
+| Smarttap | Post walletobjects smarttap insert |
+| Transitclass | Get walletobjects transitclass list, Post walletobjects transitclass insert, Get walletobjects transitclass get, Patch walletobjects transitclass patch, Put walletobjects transitclass update, Post walletobjects transitclass addmessage |
+| Transitobject | Get walletobjects transitobject list, Post walletobjects transitobject insert, Get walletobjects transitobject get, Patch walletobjects transitobject patch, Put walletobjects transitobject update, Post walletobjects transitobject addmessage |
+| Walletobjects | Post walletobjects walletobjects v 1 private content upload private data |
 
 ---
 
